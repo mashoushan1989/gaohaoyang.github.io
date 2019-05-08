@@ -1,8 +1,8 @@
 ---
 layout: post
 title:   "PPLabs实况呈现"
-categories: [简介]
-tags: [非招聘内容]
+categories: 雇主简介
+tags: PPLabs
 author: Ash
 ---
 

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "V友蚂蚁金服面经"
-categories: [其他]
-tags: [非招聘内容]
+categories: 经验分享
+tags: others
 author: Ash
 ---
 
