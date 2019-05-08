@@ -7,4 +7,4 @@ author: Ash
 ---
 
 categories: [面试吐槽, 职位招聘, 雇主简介, 经验分享，其他信息]
-tags: [P2P, blockchain, web后端, web前端, iOS, Android]
+tags: [P2P, blockchain, web后端, web前端, 流媒体， iOS, Android， PPLabs， PPIO， others]
