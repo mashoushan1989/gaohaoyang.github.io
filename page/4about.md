@@ -10,10 +10,14 @@ type: page
 {:toc}
 
 ## 关于我
-
-
-<iframe src="https://githubbadge.appspot.com/gaohaoyang?s=1" style="border: 0;height: 142px;width: 200px;overflow: hidden;" frameBorder="0"></iframe>
-
+<hr/>
+  专注于做人才配置，技术人才挖掘，机会推荐<br/>
+  热爱技术，坚信科技改变生活
+<hr/>
+- 2011年上海交通大学毕业
+- 2011-2015年4年猎头工作
+- 2015-2018年一家三维扫描技术的互联网公司
+- 2018-至今加入PPLabs
 
 ## 联系我
 
