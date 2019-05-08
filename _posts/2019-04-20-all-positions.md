@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "[汇总空缺职位][分布式云存储+区块链项目][PPLabs]"
-categories: [招聘]
-tags: [技术职位]
+categories: 职位招聘
+tags: P2P blockchain web后端 web前端 流媒体 PPLabs PPIO
 author: Ash
 ---
 

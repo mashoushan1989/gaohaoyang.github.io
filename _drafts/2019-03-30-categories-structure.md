@@ -4,12 +4,7 @@ title: "吐槽及反馈专栏"
 categories: [招聘]
 tags: [技术职位]
 author: Ash
-------
-title: "吐槽及反馈专栏"
-published: false
-categories: [吐槽]
-tags: [非招聘内容]
 ---
 
-categories: [吐槽, 招聘, 简介, 其他]
-tags: [技术职位, 职能岗位, 产品岗位, 市场岗位, 运营岗位, 非招聘内容]
+categories: [面试吐槽, 职位招聘, 雇主简介, 经验分享，其他信息]
+tags: [P2P, blockchain, web后端, web前端, iOS, Android]

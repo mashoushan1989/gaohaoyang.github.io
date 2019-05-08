@@ -1,8 +1,8 @@
 ---
 layout: post
 title:   "[PPLabs招聘答疑（非官方）]"
-categories: [简介]
-tags: [非招聘内容]
+categories: 雇主简介
+tags: PPLabs PPIO
 author: Ash
 ---
 
